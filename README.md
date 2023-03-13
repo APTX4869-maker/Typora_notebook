@@ -4,7 +4,7 @@ for my private notebook
 
 process:
 
-### 0.git pull
+### 0.git pull origin master
 
 ### 1.git add *
 
